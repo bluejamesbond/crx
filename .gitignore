@@ -3,3 +3,4 @@ test/*.zip
 test/*.xml
 node_modules
 tmp
+.idea/
